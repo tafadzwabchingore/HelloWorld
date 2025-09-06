@@ -4,8 +4,6 @@
 
 - This program was written as my first program using JavaScript.
 
-[Software Demo Video](http://youtube.link.goes.here)
-
 # Development Environment
 
 1. node 
