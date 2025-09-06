@@ -1,0 +1,23 @@
+{
+  "name": "helloworld",
+  "version": "1.0.0",
+  "description": "Hello World Module",
+  "homepage": "https://github.com/tafadzwabchingore/HelloWorld#readme",
+  "bugs": {
+    "url": "https://github.com/tafadzwabchingore/HelloWorld/issues"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/tafadzwabchingore/HelloWorld.git"
+  },
+  "license": "ISC",
+  "author": "Tafadzwa Chingore",
+  "type": "commonjs",
+  "main": "app.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "dependencies": {
+    "express": "^5.1.0"
+  }
+}
